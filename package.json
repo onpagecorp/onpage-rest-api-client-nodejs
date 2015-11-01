@@ -1,0 +1,40 @@
+{
+  "name": "onpage-rest-api-client",
+  "description": "Node.js onpage-rest-api-client module allows to use new OnPage REST API to send message to OnPage customers.",
+  "private": false,
+  "version": "1.0.0",
+  "homepage": "https://github.com/onsetinc/onpage-rest-api-client-nodejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/onsetinc/onpage-rest-api-client-nodejs.git"
+  },
+  "scripts": {},
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "messaging",
+    "onpage",
+    "page",
+    "pager",
+    "priority messaging",
+    "rest"
+  ],
+  "author": {
+    "email": "support@onsettechnology.com",
+    "name": "Onpage",
+    "url": "http://www.onpage.com"
+  },
+  "bugs": {
+    "url": "https://github.com/onsetinc/onpage-rest-api-client-nodejs/issues"
+  },
+  "dependencies": {
+    "async": "~1.4.2",
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1",
+    "https": "~1.0.0",
+    "jsonwebtoken": "~5.0.4",
+    "promise": "~7.0.4",
+    "request": "~2.65.0"
+  },
+  "devDependencies": {}
+}
